@@ -4,7 +4,7 @@
 Write a program, contained to the command prompt, that finds a path through a maze
 
 ## Input
-The program will receive a populated txt file that describes the maze layout
+The program will receive a populated txt file that describes the maze layout.
 The the spaces indicating a wall are marked with '*'.
 The starting point is marked with an 'S'.
 The endpoint is marked with an 'E'.
